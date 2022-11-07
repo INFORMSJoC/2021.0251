@@ -1,2 +1,19 @@
-*~
-*.o
+# Portions of this .gitignore file are copied from Python.gitignore at https://github.com/github/gitignore.
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# MacOS
+.DS_Store
+
+# Environments
+.env
+.venv
+
+# Documentation build
+docs/_build/**
+
+# Pickle files
+.pickle
