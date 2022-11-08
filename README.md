@@ -49,9 +49,9 @@ Full documentation for the source code can be found **[here](https://simopt.read
 ## Working with the Repository
 This repository can be [cloned](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). Download a copy of the cloned repository to your local machine and navigate to the root directory in your preferred integrated development environment (IDE). You will need to make sure that you have the following dependencies installed: Python 3, `numpy`, `scipy`, `matplotlib`, `pandas`, `seaborn`, and `mrg32k3a`. Run the command ``` python -m pip install numpy scipy matplotlib pandas seaborn mrg32k3a``` to install them from the terminal.
 
-The `demo` folder contains the script `demo_san-sscont-ironorecont_experiment`, which runs multiple solvers on multiple versions of (s, S) inventory, iron ore, and stochastic activiy network problems and produce plots. The resulting data and plots are used for the INFORMS Journal on Computing paper. To reproduce the results, run the command
+The `scripts` folder contains the script `demo_san-sscont-ironorecont_experiment`, which runs multiple solvers on multiple versions of the (s, S) inventory, iron ore, and stochastic activiy network problems and produce plots. The resulting data and plots are used for the INFORMS Journal on Computing paper. To reproduce the results, run the command
 
-    python demo/demo_san-sscont-ironorecont_experiment.py
+    python scripts/demo_san-sscont-ironorecont_experiment.py
 
 ## Ongoing Development
 
