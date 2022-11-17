@@ -25,8 +25,8 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {Diagnostic Tools for Evaluating and Comparing Simulation-Optimization Algorithms},
   year =          {2022},
-  doi =           {???},
-  url =           {???},
+  doi =           {10.5281/zenodo.7329235},
+  note =           {available for download at https://github.com/INFORMSJoC/2021-0251},
 }  
 ```
 
