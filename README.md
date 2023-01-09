@@ -3,7 +3,7 @@
 This project is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The software and data in this repository are associated with the paper [Diagnostic Tools for Evaluating and Comparing Simulation-Optimization Algorithms](???) by D. J. Eckman, S. G. Henderson, and S. Shashaani. 
+The software and data in this repository are associated with the paper [Diagnostic Tools for Evaluating and Comparing Simulation-Optimization Algorithms](https://doi.org/10.1287/ijoc.2022.1261) by D. J. Eckman, S. G. Henderson, and S. Shashaani. 
 
 ## Version
 
