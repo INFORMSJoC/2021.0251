@@ -13,9 +13,7 @@ The version used in the paper is
 
 ## Cite
 
-To cite this software, please cite the [paper](???) and the software, using the following DOI.
-
-[![DOI](???)](???)
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2022.1261) and the software, using the following DOI: [https://doi.org/10.1287/ijoc.2022.1261.cd](https://doi.org/10.1287/ijoc.2022.1261.cd)
 
 Below is the BibTex for citing this version of the code.
 
@@ -25,7 +23,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {Diagnostic Tools for Evaluating and Comparing Simulation-Optimization Algorithms},
   year =          {2022},
-  doi =           {10.5281/zenodo.7329235},
+  doi =           {10.1287/ijoc.2022.1261.cd},
   note =           {available for download at https://github.com/INFORMSJoC/2021.0251},
 }  
 ```
